@@ -32,4 +32,4 @@ To start, open a terminal application and run a command "python3.2 bbai.py" in t
 
 If you want to end the conversation, type "Good bye".
 
-A word of advice: try to not to say too many phrases within the same session, it would cost you more money than you'd probably like to spent.
+A word of advice: try to not to say too many phrases within the same session, it would cost you more money than you'd probably like to spent (I mean, the script is free, but openAI API is not, and you'd probably don't want to overspent your free trial tokens).
